@@ -1,13 +1,13 @@
-const siteUrl = 'https://blog.cometkim.kr'
-const title = `Hyeseong's Blog`
-const description = '엔지니어링 관련 있거나 없거나, 잡생각을 모아 지식으로 정리하는 블로그'
+const siteUrl = 'https://blog.enqdeq.net'
+const title = `Andre's Blog`
+const description = '정리하는 블로그'
 const keywords = ['dev', 'blog', 'web']
 const owner = {
-    name: 'Hyeseong Kim',
-    email: 'cometkim.kr@gmail.com',
-    github: 'cometkim',
-    twitter: 'KrComet',
-    gravatar: 'f8926983e9d37ea2f6ffba6575fad143',
+    name: 'Byungwoo Jeon',
+    email: 'apply@enqdeq.net',
+    github: 'byung-u',
+    twitter: 'jeonbyungwoo',
+    gravatar: '841c6469756ec301df8b142993e550e3',
 }
 
 module.exports = {
